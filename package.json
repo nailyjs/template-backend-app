@@ -6,7 +6,8 @@
   "scripts": {
     "build": "naily build",
     "dev": "naily dev",
-    "prod": "node dist/main.js",
+    "node": "node dist/main.js",
+    "bun": "bun run dist/main.js",
     "lint": "eslint ."
   },
   "dependencies": {
