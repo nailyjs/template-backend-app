@@ -1,4 +1,6 @@
-export interface AppConfiguration {}
+export interface AppConfiguration {
+  // Custom your configuration
+}
 
 declare global {
   namespace Naily {
