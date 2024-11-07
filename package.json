@@ -1,0 +1,24 @@
+{
+  "name": "example-backend-app",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsup",
+    "dev": "naily dev",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@nailyjs/backend": "^2.0.5",
+    "@nailyjs/cli": "^2.0.8",
+    "@nailyjs/config": "^2.0.4",
+    "@nailyjs/eslint": "^2.0.5",
+    "@nailyjs/ioc": "^2.0.3"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.9.1",
+    "@types/node": "^22.9.0",
+    "tsup": "^8.3.5",
+    "typescript": "^5.6.3"
+  }
+}

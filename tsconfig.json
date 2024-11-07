@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": "ES2022",
+    "moduleResolution": "Bundler",
+    "skipLibCheck": true
+  },
+  "include": ["src", "test", "shims.d.ts", "naily.config.ts"]
+}
