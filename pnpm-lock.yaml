@@ -12,8 +12,8 @@ importers:
         specifier: ^2.0.5
         version: 2.0.5
       '@nailyjs/cli':
-        specifier: ^2.0.8
-        version: 2.0.8(@swc/core@1.9.1)(@types/node@22.9.0)(jiti@2.4.0)(postcss@8.4.47)(tsx@4.19.2)(typescript@5.6.3)(yaml@2.6.0)
+        specifier: ^2.0.9
+        version: 2.0.9(@swc/core@1.9.1)(@types/node@22.9.0)(jiti@2.4.0)(postcss@8.4.47)(tsx@4.19.2)(typescript@5.6.3)(yaml@2.6.0)
       '@nailyjs/config':
         specifier: ^2.0.4
         version: 2.0.4
@@ -660,8 +660,8 @@ packages:
   '@nailyjs/backend@2.0.5':
     resolution: {integrity: sha512-I158y2CngbRExBfWL1jH3rw6v4gLUGbA7KfdW5yHIwqKqhCVgIG0BkKefrwweqYFgFVK6IFIAhszKsmMlG/M2w==}
 
-  '@nailyjs/cli@2.0.8':
-    resolution: {integrity: sha512-Ax7nMYFvnOzh7HUwdYhDAmRsi8blDyJ2KEU6bIw4VNYkpJv7dk4Nk6Xh4lZJ4SZZFa7uFQnMrnyNHczz2RBdSA==}
+  '@nailyjs/cli@2.0.9':
+    resolution: {integrity: sha512-qk+FMEQPSEfj4y18zA0bRIzQv4gHOdI60Rl/4/iBolYKADjgV4/LzU5JF56OTeCq0lKDpuED7LhhuwMu2FLkYA==}
     hasBin: true
 
   '@nailyjs/config@2.0.4':
@@ -3041,7 +3041,7 @@ snapshots:
       '@nailyjs/ioc': 2.0.3
       reflect-metadata: 0.2.2
 
-  '@nailyjs/cli@2.0.8(@swc/core@1.9.1)(@types/node@22.9.0)(jiti@2.4.0)(postcss@8.4.47)(tsx@4.19.2)(typescript@5.6.3)(yaml@2.6.0)':
+  '@nailyjs/cli@2.0.9(@swc/core@1.9.1)(@types/node@22.9.0)(jiti@2.4.0)(postcss@8.4.47)(tsx@4.19.2)(typescript@5.6.3)(yaml@2.6.0)':
     dependencies:
       '@nailyjs/config': 2.0.4
       '@nailyjs/ioc': 2.0.3
