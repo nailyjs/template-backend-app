@@ -7,6 +7,8 @@
 
 Naily is a IOC framework written in TypeScript.
 
+</div>
+
 ## 安装依赖
 
 ```bash
